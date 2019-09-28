@@ -1,5 +1,1 @@
-Lab2_ImageData/large_data/kpca.p filter=lfs diff=lfs merge=lfs -text
-Lab2_ImageData/Letters/A_Z filter=lfs diff=lfs merge=lfs -text
-Handwritten filter=lfs diff=lfs merge=lfs -text
-Data.csv filter=lfs diff=lfs merge=lfs -text
 Lab2_ImageData/Letters/A_Z[[:space:]]Handwritten[[:space:]]Data.csv filter=lfs diff=lfs merge=lfs -text
