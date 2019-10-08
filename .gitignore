@@ -104,5 +104,4 @@ venv.bak/
 .mypy_cache/
 
 # personal additions
-./Lab2_ImageData/Letters/*
-./Lab2_ImageData/large_data/kpca.p
+Lab2_ImageData/large_data/kpca.p
